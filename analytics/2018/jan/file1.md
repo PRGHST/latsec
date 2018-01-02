@@ -1,0 +1,16 @@
+#### SHA256
+a80b3945c9731abe8cb895e4313eb6508fc1cfbe6acf92c6aad95ca00a9e4237
+#### MD5
+f3bbbe79d5878b1f3bc92ce896436505
+#### Filename
+ponchar un cable utp.doc (English: *strike an utp cable*)
+
+#### First seen
+2017-12-29 15:24:42 UTC
+
+#### ANALYSIS NOTES
+* Submitted to VirusTotal from Ecuador
+* Office document leverages VBA Macro to launch Windows Command Prompt
+* Indicative of [Magic Unicorn Powershell Attack tool](https://github.com/trustedsec/unicorn)
+* Shellcode contains a local IP address "192.168.42.75"
+* [Link to VirusTotal](https://www.virustotal.com/en/file/a80b3945c9731abe8cb895e4313eb6508fc1cfbe6acf92c6aad95ca00a9e4237/analysis/)
