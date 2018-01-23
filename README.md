@@ -5,4 +5,4 @@
 ---
 ### RECENT ANALYSIS
 * ### 2018
-  * ### [January](../blob/master/analytics/2018/jan)
+  * ### [January](../blob/master/analytics/2018/jan/)
