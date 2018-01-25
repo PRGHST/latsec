@@ -15,5 +15,5 @@ HOLAS.doc (English: *Hellos*)
 * [Link to VirusTotal](https://www.virustotal.com/en/file/466a13dbfa1fb176abda1577b0a4c69c23230246597c4724659d3e599659a057/analysis/)
 
 #### SCREENSHOT
-![](../jan/screenshots/1_screenshot_6b6b38f459b17d9385dcb84207bfec7d.PNG)
+![](screenshots/1_screenshot_2b3fad3bfe1fa2be4469bd1c64f59cad.PNG)
 ###### Evidence of CVE-2017-11882
